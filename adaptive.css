@@ -1,0 +1,786 @@
+@media (min-width: 1440px){
+    .header{
+        width: 1440px;
+    }
+    .logo1{
+        position: relative;
+        left: 50px;
+    }
+    .consultationButtonPosition{
+        left: 700px;
+    }
+    .en{
+        left: 800px;
+    }
+    .ru{
+        left: 820px;
+    }
+    .phoneNumb{
+        left: 850px;
+    }
+    .menuButton{
+        left: 440px;
+    }
+    .modal{
+        width: 1440px;
+    }
+    .menu {
+        left: 505px;
+    }
+    .firstMain{
+        width: 1440px;
+    }
+    .socialLogos{
+        left: 1380px;
+    }
+    .sliderButtons{
+        left: 150px;
+    }
+    .firstSlider{
+        left: 360px;
+    }
+    .latestProjects{
+        width: 1440px;
+    }
+    .latestProjectsHeader{
+        left:-200px;
+    }
+    .latestProjectsHeaderButtonAll{
+        left:150px;
+    }
+    .latestProjectsHeaderButtonBuilding{
+        left:200px;
+    }
+    .latestProjectsHeaderButtonInterior{
+        left:250px;
+    }
+    .latestProjectsHeaderButtonView{
+        left:300px;
+    }
+    .photoLine{
+        width: 1440px;
+    }
+    .photoBlock1{
+        width: 360px;
+        margin-right: 2px;
+    }
+    .yellowBlock{
+        width: 400px;
+        margin-right: 0px;
+    }
+    .yellowBlockHeader{
+        left: 5px;
+    }
+    .yellowBlockTxt{
+        left: 5px;
+    }
+    .photoBlock3{
+        width: 360px;
+        margin-right: 2px;
+    }
+    .photoBlock4{
+        width: 360px;
+        margin-right: 2px;
+    }
+    .video{
+        width: 1440px;
+    }
+    .videoImg{
+        width: 1440px;
+    }
+    .playButton{
+        position: relative;
+        left:-750px;
+    }
+    .contactUs{
+        width: 1440px;
+    }
+    .footer{
+        width: 1440px;
+    }
+    .columnBlock{
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+    .copyright{
+        margin-right: 800px;
+    }
+}
+
+@media (min-width: 1024px) and (max-width: 1439px) {
+    .header{
+        width: 1024px;
+    }
+    .consultationButtonPosition{
+        left: 300px;
+    }
+    .en{
+        left: 330px;
+    }
+    .ru{
+        left: 350px;
+    }
+    .phoneNumb{
+        left: 400px;
+    }
+    .menuButton{
+        left: 0px;
+    }
+    .modal{
+        width: 1024px;
+    }
+    .menu {
+        left: 55px;
+    }
+    .firstMain{
+        width: 1024px;
+    }
+    .socialLogos{
+        left: 950px;
+    }
+    .logoSim{
+        left: 100px;
+        top: -1000px;
+    }
+    .sliderButtons{
+        left: 70px;
+        top: -820px;
+    }
+    .firstSlider{
+        left: -50px;
+    }
+    .latestProjects{
+        width: 1024px;
+        margin-bottom: 700px;
+    }
+    .latestProjectsHeader{
+        left:-330px;
+    }
+    .latestProjectsHeaderButtonAll{
+        left:-200px;
+    }
+    .latestProjectsHeaderButtonBuilding{
+        left:-150px;
+    }
+    .latestProjectsHeaderButtonInterior{
+        left:-100px;
+    }
+    .latestProjectsHeaderButtonView{
+        left:-50px;
+    }
+    .photoLine{
+        width: 600px;
+        display: grid;
+        grid-template-areas: 
+        'block1 block2'
+        'block3 block4';
+    }
+    .video{
+        width: 1024px;
+    }
+    .videoImg{
+        width: 1024px;
+    }
+    .playButton{
+        left:-580px;
+    }
+    .limits{
+        width: 1024px;
+    }
+    .limitsTxt{
+        left: 70px;
+    }
+    .gridBlock{
+        width: 1024px;
+        grid-gap: 10px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .gridPhoto1{
+        width: 500px;
+    }
+    .gridPhoto2{
+        width: 500px;
+    }
+    .contactUs{
+        width: 1024px;
+    }
+    .usefulArticles{
+        width: 1024px;
+    }
+    .usefulArticlesLink{
+        left: 350px;
+    }
+    .greyArrow{
+        left: 380px;
+    }
+    .container3{
+        width: 1024px;
+        padding: 0.3rem;
+    }
+    .bestOffers{
+        width: 1024px;
+        gap:0px;
+    }
+    .picar{
+        width: 320px;
+    }
+    .faq{
+        width: 1024px;
+    }
+    .footer{
+        width: 1024px;
+    }
+    .columnBlock{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .copyright{
+        margin-right: 450px;
+    }
+}
+
+
+@media (min-width: 768px) and (max-width: 1023px) {
+    .header{
+        width: 768px;
+    }
+    .consultationButtonPosition{
+        left: 150px;
+    }
+    .en{
+        left: 180px;
+    }
+    .ru{
+        left: 200px;
+    }
+    .phoneNumb{
+        left: 220px;
+    }
+    .menuButton{
+        left: -30px;
+    }
+    .modal{
+        width: 768px;
+    }
+    .modal-content{
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .menu {
+        left: 25px;
+    }
+    .firstMain{
+        width: 768px;
+    }
+    .socialLogos{
+        left: 710px;
+        top: -920px;
+    }
+    .logoSim{
+        left: 5px;
+        top: -1050px;
+    }
+    .firstSlider{
+        left: 0px;
+        width: 768px;
+    }
+    .sliderButtons{
+        left: 70px;
+        top: -820px;
+    }
+    .firstSliderBlock{
+        left: 10px;
+    }
+    .secondSliderBlock{
+        left: 80px;
+    }
+    .thirdSliderBlock{
+        left: 150px;
+    }
+    .slidersTXT{
+        margin-left: 10px;
+    }
+
+    .latestProjects{
+        width: 768px;
+        margin-bottom: 700px;
+    }
+    .latestProjectsHeader{
+        left:-345px;
+    }
+    .latestProjectsHeaderButtonAll{
+        left:-275px;
+    }
+    .latestProjectsHeaderButtonBuilding{
+        left:-250px;
+    }
+    .latestProjectsHeaderButtonInterior{
+        left:-225px;
+    }
+    .latestProjectsHeaderButtonView{
+        left:-200px;
+    }
+    .photoLine{
+        width: 768px;
+        display: grid;
+        grid-template-areas: 
+        'block1 block2'
+        'block3 block4';
+    }
+    .photoBlock1{
+        width: 370px;
+    }
+    .yellowBlock{
+        width: 370px;
+    }
+    .photoBlock3{
+        width: 370px;
+    }
+    .photoBlock4{
+        width: 370px;
+    }
+    .video{
+        width: 768px;
+    }
+    .videoImg{
+        width: 768px;
+    }
+    .playButton{
+        left:-430px;
+    }
+    .limits{
+        width: 768px;
+    }
+    .limitsTxt{
+        left: 20px;
+    }
+    .gridBlock{
+        width: 768px;
+        grid-gap: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .gridPhoto1{
+        width: 370px;
+    }
+    .gridPhoto2{
+        width: 370px;
+    }
+    .gridTxt1{
+        text-align: center;
+    }
+    .gridTxt2{
+        text-align: center;
+    }
+    .articleSecondBlockDate{
+        left: 30px;
+        top: 20px;
+    }
+    .secondArticleHeader{
+        left: 30px;
+        top: 20px;
+    }
+    .secondArticleMainTxt{
+        left: 30px;
+        top: 40px;
+    }
+    .secondArticleLink{
+        left: 30px;
+        top: 50px;
+    }
+    .rightArrowYellow{
+        left: 10px;
+        top: 15px;
+    }
+    .contactUs{
+        width: 768px;
+    }
+    .usefulArticles{
+        width: 768px;
+    }
+    .usefulArticlesLink{
+        left: 350px;
+    }
+    .rightArrowYellow{
+        left: 135px;
+    }
+    .container3{
+        width: 768px;
+        padding: 0.3rem;
+    }
+    .bestOffers{
+        width: 768px;
+        gap:0px;
+    }
+    .block-cover{
+        gap: 5px;
+    }
+    .picar{
+        width: 245px;
+    }
+    .faq{
+        width: 768px;
+    }
+    .container2 .box2 .content2 {
+        width:768px;
+    }
+    .footer{
+        width: 768px;
+    }
+    .columnBlock{
+        margin-left: 1px;
+        margin-right: 1px;
+    }
+    .copyright{
+        margin-right: 200px;
+    }
+}
+
+@media (min-width: 375px) and (max-width: 767px) {
+    .header{
+        width: 375px;
+        height: 300px;
+        margin: 0px;
+        flex-direction: column;
+    }
+    .logo1{
+        width:200px;
+        position: relative;
+        left:-80px;
+    }
+    .consultationButtonPosition{
+        left: -97px;
+        top:20px;
+    }
+    .en{
+        left: -150px;
+        top:30px;
+    }
+    .ru{
+        left: -150px;
+        top:20px;
+    }
+    .phoneNumb{
+        font-family: Gilroy-Regular;
+        font-size: 12px;
+        left: -110px;
+        top:20px;
+    }
+    .menuButton{
+        position: relative;
+        left:-150px;
+        top:-430px;
+    }
+    .container{
+        padding: 5px;
+    }
+    .container .box .content{
+        left:80px;
+    }
+    .modal{
+        width: 375px;
+    }
+    .modal-content{
+        margin-left: 5px;
+        margin-right: 5px;
+        width: 375px;
+        height: 460px;
+    }
+    .textName{
+        width: 350px;
+    }
+    .textPhone{
+        width: 350px;
+        left: 0px;
+    }
+    .sendButton{
+        top: 20px;
+        left: 0px;
+    }
+    .close{
+        left: 180px;
+        top: -530px;
+    }
+    .menu {
+        left: 80px;
+        top:-240px;
+        width:180px;
+    }
+    .firstMain{
+        width: 375px;
+    }
+    .socialLogos{
+        left: 335px;
+        top: -920px;
+    }
+    .logoSim{
+        left: 5px;
+        top: -1050px;
+        width: 370px;
+    }
+    .borderLogoTXT{
+        left: 25px;
+    }
+    .borderLogoHeaderTXT{
+        font-size: 60px;
+        left: 25px;
+    }
+    .firstSlider{
+        left: 0px; 
+        width: 380px;
+        height: 600px;
+        top: -1000px;
+        flex-direction: column;
+    }
+    .sliderButtons{
+        left: 70px;
+        top: -1030px;
+    }
+    .firstSliderBlock{
+        left: 10px;
+        top: -20px;
+    }
+    .secondSliderBlock{
+        left: 10px;
+        top: -100px;
+    }
+    .thirdSliderBlock{
+        left: 10px;
+        top: -180px;
+    }
+    .slidersTXT{
+        margin-left: 10px;
+    }
+    .latestProjects{
+        width: 375px;
+        margin-bottom: 2000px;
+    }
+    .latestProjectsHeaderLine{
+        display: flex;
+        flex-direction: column;
+        position: relative;
+        left: 0px;
+        align-items: center;
+    }
+    .latestProjectsHeader{
+        left:-100px;
+        font-size: 24px;
+    }
+    .latestProjectsHeaderButtonAll{
+        left:-160px;
+        top:-30px;
+    }
+    .latestProjectsHeaderButtonBuilding{
+        left:-140px;
+        top:-30px;
+    }
+    .latestProjectsHeaderButtonInterior{
+        left:-140px;
+        top:-30px;
+    }
+    .latestProjectsHeaderButtonView{
+        left:-110px;
+        top:-30px;
+    }
+    .photoLine{
+        width: 375px;
+        height: 2000px;
+        display: flex;
+        flex-direction: column;
+    }
+    .photoBlock1{
+        width: 370px;
+        height: 300px;
+        position: relative;
+        top:-20px;
+    }
+    .yellowBlock{
+        width: 400px;
+        height: 550px;
+        position: relative;
+        top:250px;
+    }
+    .yellowBlockHeader{
+        left: 10px;
+    }
+    
+    .yellowBlockTxt{
+        left: 10px;
+    }
+    .photoBlock3{
+        width: 375px;
+        height: 500px;
+        position: relative;
+        top:250px;
+    }
+    .photoBlock4{
+        width: 375px;
+        height: 500px;
+        position: relative;
+        top:280px;
+    }
+    .expertise{
+        width: 375px;
+        margin-bottom: 500px;
+    }
+    .video{
+        width: 375px;
+    }
+    .videoImg{
+        width: 375px;
+    }
+    .playButton{
+        left:-215px;
+        width: 50px;
+    }
+    .limits{
+        width: 375px;
+    }
+    .limitsTxt{
+        left: 0px;
+    }
+    .gridBlock{
+        width: 375px;
+        grid-gap: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 1000px;
+    }
+    .gridPhoto1{
+        width: 370px;
+    }
+    .gridPhoto2{
+        width: 370px;
+    }
+    .gridTxt1{
+        text-align: center;
+    }
+    .gridTxt2{
+        text-align: center;
+    }
+    .secondArticleHeader{
+        left: 30px;
+        top: 20px;
+    }
+    .secondArticleMainTxt{
+        left: 30px;
+        top: 40px;
+    }
+    .secondArticleLink{
+        left: 30px;
+        top: 50px;
+    }
+    .rightArrowYellow{
+        left: 10px;
+        top: 15px;
+    }
+    .contactUs{
+        width: 375px;
+    }
+    .contactUsPreHeader{
+        top: 50px;
+    }
+    .contactUsHeader{
+        font-size: 90px;
+        top: -50px;
+    }
+    .sendTxt{
+        width: 200px;
+        top:-145px;
+    }
+    .sendContactButton{
+        top:-145px;
+    }
+    .usefulArticles{
+        width: 375px;
+        margin-bottom: 200px;
+        height: 1200px;
+    }
+    .usefulArticlesLink{
+        left: 0px;
+    }
+    .greyArrow{
+        left: -5px;
+    }
+    .usefulArticlesPhotoline{
+        flex-direction: column;
+        height: 1000px;
+    }
+    .firstArticlePhotoBlock{
+        margin-bottom: 100px;
+        position: relative;
+        top: 50px;
+    }
+    .secondArticleBlock{
+        position: relative;
+        top: 50px;
+    }
+    .thirdArticlePhotoBlock{
+        position: relative;
+        top: 100px;
+    }
+    .container3{
+        width: 375px;
+        padding: 0.3rem;
+    }
+    .bestOffers{
+        width: 375px;
+        gap:0px;
+    }
+    .block-cover{
+        gap: 5px;
+    }
+    .picar{
+        width: 117px;
+    }
+    .faq{
+        width: 375px;
+    }
+    .container2 .box2 .content2 {
+        width:375px;
+    }
+    .footer{
+        width: 375px;
+    }
+    .flexBlock{
+        display: grid;
+        grid-template-areas:
+        'buy'
+        'services'
+        'information'
+        'about'
+        'contact';
+        height: auto;
+        gap: 10px;
+    }
+    .columnBlock{
+        width: 180px;
+    }
+    #buy{
+        grid-area: buy;
+    }
+    #services{
+        grid-area: services;
+    }
+    #information{
+        grid-area: information;
+    }
+    #about{
+        grid-area: about;
+    }
+    #contact{
+        grid-area: contact;
+    }
+    .columnBlock{
+        margin-left: 1px;
+        margin-right: 1px;
+    }
+    .copyright{
+        margin-left: 0px;
+        margin-right: 0px;
+        font-size: 13px;
+    }
+}
